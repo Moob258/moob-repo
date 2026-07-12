@@ -5,9 +5,9 @@
     </requires>
     <extension point="xbmc.addon.repository" name="Moob Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/Moob258/moob-repo/main/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/Moob258/moob-repo/main/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/Moob258/moob-repo/main/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/Moob258/moob-repo/main/moob-repo/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/Moob258/moob-repo/main/moob-repo/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/Moob258/moob-repo/main/moob-repo/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
